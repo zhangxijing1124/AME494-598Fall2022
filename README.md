@@ -1,1 +1,1 @@
-# AME494-598Fall2022
+# AME 598 Programming for the Internet of Things
