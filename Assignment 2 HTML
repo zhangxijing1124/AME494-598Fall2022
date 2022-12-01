@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Xijing Zhang</h1>
+<p>Tempe, AZ 85283</p>
+<p>xzhan620@asu.edu</p>
+
+
+</body>
+</html>
+
+
+<b>EDUCATION</b>
+<table>
+  <tr>
+    <td>MS, Digital Culture</td>
+  </tr>
+    <td>School of Arts, Media and Engineering</td>
+  <tr>
+    <td>Arizona State University, Tempe, AZ</td>
+  </tr>
+  <tr>
+    <td>Cumulative GPA: 3.87/ 4.00</td>
+  </tr>
+  
+  <td> </td>
+  <tr>
+    <td>BS, Industrial Design</td>
+  </tr>
+    <td>School of Design</td>
+  <tr>
+    <td>Jiangnan University, Wuxi, China</td>
+  </tr>
+  <tr>
+    <td>Cumulative GPA: 3.63/ 4.00</td>
+  </tr>
+  
+</table>
+
+<p></p>
+<b>EXPERIENCE</b>
+<ol>
+  <li>iOS Development Tutor </li>
+  	<text>Provide help in iOS, macOS development, including software development and game development. Help students complete their projects and assignments</text>
+  <li>Electronics Assistant </li>
+    <text>Provide help in electronic assembly, coding, soldering. Help students complete their projects and assignments</text>
+</ol>
+
+<p></p>
+<h4>IMAGE</h4>
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+
+<p></p>
+<h4>REFERENCES</h4>
+<ul>
+  <li><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></li>
+  <li><a href="https://github.com/tejaswigowda/ame494-598Fall2022/tree/main/ASSIGNMENTS/A3">Visit Github_1</a></li>
+  <li><a href="https://github.com/zhangxijing1124/AME494-598Fall2022">Visit Github_2</a></li>
+</ul>
