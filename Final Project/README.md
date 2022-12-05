@@ -25,7 +25,18 @@
 #### (2) Install the latest Python 2
 https://www.python.org/downloads/macos/
 
-####
-####
-####
-####
+#### (3) Common compilation errors: “Exec: “python”: executable file not found in $PATH”
+Starting the IDE with the Terminal app could solve this problem:
+> open /Applications/Arduino1.8.19.app
+#### (4) If you use macOS, the errors may happen: “A fatal error occurred: Failed to write to target RAM (result was 0107) (ESPTOOL-95) #280”
+Step 1:Install USB-to-Serial macOS Vendor Driver
+https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html
+Step 2: Select the new port “cu.wchusberial529A0093721”
+
+#### (5) Install “ArduinoWebsockets.h” Library
+You could find it in GitHub Repo
+![alt text](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture/WechatIMG970.png)
+
+#### (6) Setting
+Open “face_test.ino”, change the ssid and password to yours
+![alt text](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture/Screen%20Shot%202022-12-05%20at%201.28.46%20AM.png)
