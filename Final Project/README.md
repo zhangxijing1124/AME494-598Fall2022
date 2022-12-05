@@ -40,3 +40,19 @@ You could find it in GitHub Repo
 #### (6) Setting
 Open “face_test.ino”, change the ssid and password to yours
 ![alt text](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture/Screen%20Shot%202022-12-05%20at%201.28.46%20AM.png)
+
+### 4. Manual
+#### (1) Open the web page
+#### (2) Add user and face recognition
+#### (3) Display has been added
+#### (4) Test whether to open the electronic lock
+#### (5) Finish
+#### (If possible, you can apply the Electronic door lock to the actual door, or directly control the door lock/unlock by other ways.)
+
+### 5. Conclusion
+#### Because there is not enough time, in the end, I did not apply this project to a real door. But I think it is not far from this ultimate goal.
+
+### Works Cited
+#### https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800/issues/139
+#### https://github.com/espressif/esptool/issues/280
+#### https://forum.arduino.cc/t/exec-python-executable-file-not-found-in-path/971847/5
