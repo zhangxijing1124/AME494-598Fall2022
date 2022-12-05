@@ -18,3 +18,14 @@
 #### (3) Relay module 
 #### (4) 12v power supply
 ![alt text](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture.jpg)
+
+### 3. Environment and Setting
+#### (1) Install ESP32 Board on Arduino IDE
+![alt text](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture/Screen%20Shot%202022-12-05%20at%201.08.34%20AM.png)
+#### (2) Install the latest Python 2
+https://www.python.org/downloads/macos/
+
+####
+####
+####
+####
