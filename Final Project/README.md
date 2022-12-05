@@ -1,3 +1,6 @@
 # Final Project
-# Paper - due Monday Dec 5, by midnight (20 points/ A8)
-# Link to the Paper
+### Name: Xijing Zhang
+### Professor: Tejaswi Linge Gowda
+### Subject Name: Home Security System
+### 01 December 2022
+
