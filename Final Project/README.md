@@ -17,4 +17,4 @@
 #### (2) Electronic door lock
 #### (3) Relay module 
 #### (4) 12v power supply
-![alt text]([[https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/zhangxijing1124/AME494-598Fall2022/edit/main/Final%20Project)](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture.jpg))
+![alt text](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture.jpg)
