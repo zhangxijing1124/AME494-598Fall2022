@@ -29,9 +29,9 @@ https://www.python.org/downloads/macos/
 Starting the IDE with the Terminal app could solve this problem:
 > open /Applications/Arduino1.8.19.app
 #### (4) If you use macOS, the errors may happen: “A fatal error occurred: Failed to write to target RAM (result was 0107) (ESPTOOL-95) #280”
-Step 1:Install USB-to-Serial macOS Vendor Driver
-https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html
-Step 2: Select the new port “cu.wchusberial529A0093721”
+#### Step 1:Install USB-to-Serial macOS Vendor Driver
+#### https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html
+#### Step 2: Select the new port “cu.wchusberial529A0093721”
 
 #### (5) Install “ArduinoWebsockets.h” Library
 You could find it in GitHub Repo
