@@ -1,7 +1,6 @@
-//B站找 ：arduino捣鼓室 欢迎大家评论区一起交流！如有不足请大家指正 共同进步！
-//案例仅供参考,如有代码细节问题对照教程检测相应的开发板和库安装 
+//Final project
 
-#include <ArduinoWebsockets.h> ///这个库必须安装必须安装 
+#include <ArduinoWebsockets.h>
 #include "esp_http_server.h"
 #include "esp_timer.h"
 #include "esp_camera.h"
@@ -12,7 +11,7 @@
 #include "fr_flash.h"
 
 
-//写上你连接的无线WiFi账号密码  
+//Wifi ssid and password  
 
 const char* ssid     = "*******";
 const char* password = "*********";
@@ -35,9 +34,9 @@ camera_fb_t * fb = NULL;
 long current_millis;
 long last_detected_millis = 0;
 
-#define relay_pin 2 //12号引脚OK
+#define relay_pin 2 //12
 unsigned long door_opened_millis = 0;
-long interval = 5000;           // 开锁时间
+long interval = 5000;           // unlock time
 bool face_recognised = false;
 
 void app_facenet_main();
@@ -265,10 +264,10 @@ void handle_message(WebsocketsClient &client, WebsocketsMessage msg)
 
 void open_door(WebsocketsClient &client) {
   if (digitalRead(relay_pin) == LOW) {
-    digitalWrite(relay_pin, HIGH); //关闭（通电）继电器，使门解锁
+    digitalWrite(relay_pin, HIGH); // Turn off Relay module and unlock the lock关闭（通电）继电器，使门解锁
     Serial.println("Door Unlocked");
     client.send("door_open");
-    door_opened_millis = millis(); // 时间继电器关闭，门打开
+    door_opened_millis = millis(); // The door open 时间继电器关闭，门打开
   }
 }
 
