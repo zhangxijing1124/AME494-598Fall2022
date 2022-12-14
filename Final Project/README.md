@@ -8,7 +8,9 @@
 
 #### Security is of most concern for anyone nowadays, whether it's data security or the security of their own home. With the advancement of technology and the increasing use of IoT, digital door locks have become very common these days. Digital lock doesn’t require any physical key but it uses RFID, fingerprint, Face ID, pin, passwords, etc. to control the door lock. People have many digital door lock applications using these various technologies, but face recognition door lock systems used by esp32-cam are a good choice to solve this problem.
 
-#### Link of Video:https://drive.google.com/drive/u/0/folders/18LfLGh7JnGlEggCqI9TRGMicPWXYIbPH
+#### Link of Video: https://drive.google.com/drive/folders/18LfLGh7JnGlEggCqI9TRGMicPWXYIbPH?usp=sharing
+![alt text](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture/Picture01.png)
+![alt text](https://github.com/zhangxijing1124/AME494-598Fall2022/blob/main/Final%20Project/Picture/Picture02.png)
 
 ## 1. Motivation
 #### User: People who needs to increase their home security.
